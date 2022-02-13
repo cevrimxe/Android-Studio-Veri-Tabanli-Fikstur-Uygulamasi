@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string-array name="hometeam_names">
+    <item>Brighton</item>
+    <item>Manchester City</item>
+    <item>Norwich City</item>
+    <item>Wolverhampton</item>
+    <item>Newcastle United</item>
+    <item>Burnley</item>
+    <item>Aston Villa</item>
+    <item>West Ham United</item>
+    <item>Liverpool</item>
+    <item>Tottenham Hotspur</item>
+</string-array>
+
+    <string-array name="awayteam_names">
+        <item>Crystal Palace</item>
+        <item>Chelsea</item>
+        <item>Everton</item>
+        <item>Southampton</item>
+        <item>Watford</item>
+        <item>Leicester City</item>
+        <item>Manchester United</item>
+        <item>Leeds United</item>
+        <item>Brentford</item>
+        <item>Arsenal</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>14/01/2022</item>
+        <item>15/01/2022</item>
+        <item>15/01/2022</item>
+        <item>15/01/2022</item>
+        <item>15/01/2022</item>
+        <item>15/01/2022</item>
+        <item>15/01/2022</item>
+        <item>16/01/2022</item>
+        <item>16/01/2022</item>
+        <item>16/01/2022</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>23:00</item>
+        <item>15:30</item>
+        <item>18:00</item>
+        <item>18:00</item>
+        <item>18:00</item>
+        <item>18:00</item>
+        <item>20:30</item>
+        <item>17:00</item>
+        <item>17:00</item>
+        <item>19:30</item>
+
+    </string-array>
+
+
+    <string-array name="stadium">
+        <item>Falmer Stadium</item>
+        <item>Etihad Stadium</item>
+        <item>Carrow Road</item>
+        <item>Molineux Stadium</item>
+        <item>St. James Park</item>
+        <item>Turf Moor</item>
+        <item>Villa Park</item>
+        <item>London Stadium</item>
+        <item>Anfield</item>
+        <item>Tottenham Stadium</item>
+
+    </string-array></resources>

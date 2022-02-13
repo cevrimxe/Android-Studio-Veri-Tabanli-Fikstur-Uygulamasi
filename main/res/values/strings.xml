@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Premier League</string>
+
+    <string-array name="team_names">
+        <item>Manchester City</item>
+        <item>Chelsea</item>
+        <item>Liverpool</item>
+        <item>Arsenal</item>
+        <item>West Ham United</item>
+        <item>Tottenham Hotspur</item>
+        <item>Manchester United</item>
+        <item>Wolverhampton</item>
+        <item>Brighton</item>
+        <item>Leicester City</item>
+        <item>Crystal Palace</item>
+        <item>Brentford</item>
+        <item>Aston Villa</item>
+        <item>Southampton</item>
+        <item>Everton</item>
+        <item>Leeds United</item>
+        <item>Watford</item>
+        <item>Burnley</item>
+        <item>Newcastle United</item>
+        <item>Norwich City</item>
+    </string-array>
+
+
+</resources>
